@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rapp11/static/css/main.e1ecb8b5.css",
+    "main.js": "/rapp11/static/js/main.c83935ca.js",
+    "index.html": "/rapp11/index.html",
+    "main.e1ecb8b5.css.map": "/rapp11/static/css/main.e1ecb8b5.css.map",
+    "main.c83935ca.js.map": "/rapp11/static/js/main.c83935ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1ecb8b5.css",
+    "static/js/main.c83935ca.js"
+  ]
+}
